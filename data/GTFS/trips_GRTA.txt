@@ -1,0 +1,343 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+400 - Cumming to Downtown,A,400 - Cumming - 1540,PM,0,,Downtown to Cumming (PM)_Mar 18 2019  9:45:00:820AM
+400 - Cumming to Downtown,A,400 - Cumming - 1610,PM,0,,Downtown to Cumming (PM)_Mar 18 2019  9:45:00:820AM
+400 - Cumming to Downtown,A,400 - Cumming - 1710,PM,0,,Downtown to Cumming (PM)_Mar 18 2019  9:45:00:820AM
+400 - Cumming to Downtown,A,400 - Downtown - 0540,AM,0,,Cumming to Downtown (AM)_Oct  3 2018  3:04:33:950PM
+400 - Cumming to Downtown,A,400 - Downtown - 0630,AM,0,,Cumming to Downtown (AM)_Oct  3 2018  3:04:33:950PM
+400 - Cumming to Downtown,A,400 - Downtown - 0700 - Copy,AM,0,,Cumming to Downtown (AM)_Oct  3 2018  3:04:33:950PM
+400 - Cumming to Downtown,A,400 - Downtown - 0700,AM,0,,Cumming to Downtown (AM)_Oct  3 2018  3:04:33:950PM
+401 - Cumming to Perimeter,A,401 - Cumming - 1630,PM,0,,Perimeter to Cumming (PM)
+401 - Cumming to Perimeter,A,401 - Cumming - 1730,PM,0,,Perimeter to Cumming (PM)
+401 - Cumming to Perimeter,A,401 - Cumming - 1835,PM,0,,Perimeter to Cumming (PM)
+401 - Cumming to Perimeter,A,401 - Perimeter - 0550,AM,0,,Cumming to Perimeter (AM)_Aug 22 2016  9:47:34:447AM
+401 - Cumming to Perimeter,A,401 - Perimeter - 0640,AM,0,,Cumming to Perimeter (AM)_Aug 22 2016  9:47:34:447AM
+401 - Cumming to Perimeter,A,401 - Perimeter - 0725,AM,0,,Cumming to Perimeter (AM)_Aug 22 2016  9:47:34:447AM
+408 - Johns Creek to Chamblee,A,408 - Chamblee - 0700,AM,0,,Johns Creek to Chamblee (AM)_Jul 19 2017  9:25:58:170AM
+408 - Johns Creek to Chamblee,A,408 - Chamblee - 0800,AM,0,,Johns Creek to Chamblee (AM)_Jul 19 2017  9:25:58:170AM
+408 - Johns Creek to Chamblee,A,408 - Doraville - 1605,PM,0,,Johns Creek to Chamblee (PM)_Jul 19 2017  9:26:27:793AM
+408 - Johns Creek to Chamblee,A,408 - Doraville - 1705,PM,0,,Johns Creek to Chamblee (PM)_Jul 19 2017  9:26:27:793AM
+408 - Johns Creek to Chamblee,A,408 - Johns Creek - 0610,AM,0,,Chamblee to Johns Creek (AM)_Aug  6 2018  3:35:11:260PM
+408 - Johns Creek to Chamblee,A,408 - Johns Creek - 0705,AM,0,,Chamblee to Johns Creek (AM)_Aug  6 2018  3:35:11:260PM
+408 - Johns Creek to Chamblee,A,408 - Johns Creek - 1720,PM,0,,Chamblee to Johns Creek (PM)_Aug  6 2018  3:35:27:167PM
+408 - Johns Creek to Chamblee,A,408 - Johns Creek - 1820,PM,0,,Chamblee to Johns Creek (PM)_Aug  6 2018  3:35:27:167PM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0610,AM,0,,Sugarloaf Mills to Lindbergh MARTA (AM)_Jul 27 2017 10:04:08:563AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0640,AM,0,,Sugarloaf Mills to Lindbergh MARTA (AM)_Jul 27 2017 10:04:08:563AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0710,AM,0,,Sugarloaf Mills to Lindbergh MARTA (AM)_Jul 27 2017 10:04:08:563AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Lindbergh - 0740,AM,0,,Sugarloaf Mills to Lindbergh MARTA (AM)_Jul 27 2017 10:04:08:563AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1540,PM,0,,Lindbergh MARTA to Sugarloaf Mills (PM)_Jul 27 2017 10:03:54:787AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1640,PM,0,,Lindbergh MARTA to Sugarloaf Mills (PM)_Jul 27 2017 10:03:54:787AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1710,PM,0,,Lindbergh MARTA to Sugarloaf Mills (PM)_Jul 27 2017 10:03:54:787AM
+410 - Sugarloaf Mills to Lindbergh MARTA Station,A,410 - Sugarloaf Mills - 1810,PM,0,,Lindbergh MARTA to Sugarloaf Mills (PM)_Jul 27 2017 10:03:54:787AM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1600,PM,0,,Midtown to Mall of Georgia/Hamilton Mill (PM)_Jun  6 2017  2:37:23:570PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1630,PM,0,,Midtown to Mall of Georgia/Hamilton Mill (PM)_Jun  6 2017  2:37:23:570PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1650,PM,0,,Midtown to Mall of Georgia/Hamilton Mill (PM)_Jun  6 2017  2:37:23:570PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1710,PM,0,,Midtown to Mall of Georgia/Hamilton Mill (PM)_Jun  6 2017  2:37:23:570PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Mall of GA/Hamilton Mill - 1730,PM,0,,Midtown to Mall of Georgia/Hamilton Mill (PM)_Jun  6 2017  2:37:23:570PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Midtown - 0540,AM,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jun  6 2017  2:35:50:780PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Midtown - 0600,AM,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jun  6 2017  2:35:50:780PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Midtown - 0630,AM,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jun  6 2017  2:35:50:780PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Midtown - 0650,AM,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jun  6 2017  2:35:50:780PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Midtown - 0710,AM,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jun  6 2017  2:35:50:780PM
+411 - Hamilton Mill:Mall of Georgia to Midtown,A,411 - Midtown - 0740,AM,0,,Hamilton Mill/Mall of Georgia to Midtown (AM)_Jun  6 2017  2:35:50:780PM
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0555,AM,0,,Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:06:25:960AM
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0625,AM,0,,Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:06:25:960AM
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0655,AM,0,,Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:06:25:960AM
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0725,AM,0,,Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:06:25:960AM
+412 - Sugarloaf Mills to Midtown,A,412 - Midtown - 0755,AM,0,,Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:06:25:960AM
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1550,PM,0,,Midtown to Sugarloaf Mills (PM)_Jul 27 2017 10:05:58:447AM
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1620,PM,0,,Midtown to Sugarloaf Mills (PM)_Jul 27 2017 10:05:58:447AM
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1640,PM,0,,Midtown to Sugarloaf Mills (PM)_Jul 27 2017 10:05:58:447AM
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1700,PM,0,,Midtown to Sugarloaf Mills (PM)_Jul 27 2017 10:05:58:447AM
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1720,PM,0,,Midtown to Sugarloaf Mills (PM)_Jul 27 2017 10:05:58:447AM
+412 - Sugarloaf Mills to Midtown,A,412 - Sugarloaf Mills - 1750,PM,0,,Midtown to Sugarloaf Mills (PM)_Jul 27 2017 10:05:58:447AM
+412 - Sugarloaf Mills to Midtown,A,412- Sugarloaf Mills to Midtown,AM,0,,Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:06:25:960AM
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Downtown - 0545,AM,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Oct  3 2018  3:09:08:000PM
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Downtown - 0605,AM,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Oct  3 2018  3:09:08:000PM
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Downtown - 0635,AM,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Oct  3 2018  3:09:08:000PM
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Downtown - 0705,AM,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Oct  3 2018  3:09:08:000PM
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Downtown - 0730,AM,0,,Hamilton Mill/Mall of Georgia to Downtown (AM)_Oct  3 2018  3:09:08:000PM
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1310,PM,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1340,PM,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1610,PM,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1640,PM,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1710,PM,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+413 - Hamilton Mill:Mall of Georgia to Downtown,A,413 - Mall of GA/Hamilton Mill - 1750,PM,0,,Downtown to Mall of Georgia/Hamilton Mill (PM)
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Hamilton Mill - 1445,PM,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)_Jul 27 2017 10:03:35:750AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Hamilton Mill - 1610,PM,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)_Jul 27 2017 10:03:35:750AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Midtown - 0500,AM,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:02:47:953AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Midtown - 0800,AM,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:02:47:953AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Midtown - 0830 - Copy,AM,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:02:47:953AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Midtown - 0830,AM,0,,Ham. Mill/Mall of GA/Sugarloaf Mills to Midtown (AM)_Jul 27 2017 10:02:47:953AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1500,PM,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)_Jul 27 2017 10:03:35:750AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1530,PM,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)_Jul 27 2017 10:03:35:750AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1810,PM,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)_Jul 27 2017 10:03:35:750AM
+414 - Ham. Mill:Mall of GA:Sugarloaf Mills to Mid ,A,414 - Sugarloaf Mills/Mall of GA/Hamilton Mill - 1855,PM,0,,Midtown to Sugarloaf Mills/Mall of GA/Ham. Mill (PM)_Jul 27 2017 10:03:35:750AM
+416 - Dacula to Downtown,A,416 - Dacula - 1515,PM,0,,Downtown to Dacula (PM)_Apr  9 2019 11:11:07:030AM
+416 - Dacula to Downtown,A,416 - Dacula - 1545,PM,0,,Downtown to Dacula (PM)_Apr  9 2019 11:11:07:030AM
+416 - Dacula to Downtown,A,416 - Dacula - 1615,PM,0,,Downtown to Dacula (PM)_Apr  9 2019 11:11:07:030AM
+416 - Dacula to Downtown,A,416 - Dacula - 1645,PM,0,,Downtown to Dacula (PM)_Apr  9 2019 11:11:07:030AM
+416 - Dacula to Downtown,A,416 - Dacula - 1715,PM,0,,Downtown to Dacula (PM)_Apr  9 2019 11:11:07:030AM
+416 - Dacula to Downtown,A,416 - Dacula - 1805,PM,0,,Downtown to Dacula (PM)_Apr  9 2019 11:11:07:030AM
+416 - Dacula to Downtown,A,416 - Downtown - 0515,AM,0,,Dacula to Downtown (AM)_Oct  3 2018  4:45:23:757PM
+416 - Dacula to Downtown,A,416 - Downtown - 0545,AM,0,,Dacula to Downtown (AM)_Oct  3 2018  4:45:23:757PM
+416 - Dacula to Downtown,A,416 - Downtown - 0610,AM,0,,Dacula to Downtown (AM)_Oct  3 2018  4:45:23:757PM
+416 - Dacula to Downtown,A,416 - Downtown - 0630,AM,0,,Dacula to Downtown (AM)_Oct  3 2018  4:45:23:757PM
+416 - Dacula to Downtown,A,416 - Downtown - 0700,AM,0,,Dacula to Downtown (AM)_Oct  3 2018  4:45:23:757PM
+416 - Dacula to Downtown,A,416 - Downtown - 0730,AM,0,,Dacula to Downtown (AM)_Oct  3 2018  4:45:23:757PM
+417 - Sugarloaf Mills to Perimeter,A,417 - Perimeter - 0535 - Copy,AM,0,,Sugarloaf Mills to Perimater (AM)_Jul 27 2017 12:54:14:940PM
+417 - Sugarloaf Mills to Perimeter,A,417 - Perimeter - 0535,AM,0,,Sugarloaf Mills to Perimater (AM)_Jul 27 2017 12:54:14:940PM
+417 - Sugarloaf Mills to Perimeter,A,417 - Perimeter - 0600 - Copy,AM,0,,Sugarloaf Mills to Perimater (AM)_Jul 27 2017 12:54:14:940PM
+417 - Sugarloaf Mills to Perimeter,A,417 - Sugarloaf Mills - 1610 - Copy,PM,0,,Perimeter to Sugarloaf Mills (PM)_Jul 27 2017 12:54:29:990PM
+417 - Sugarloaf Mills to Perimeter,A,417 - Sugarloaf Mills - 1610,PM,0,,Perimeter to Sugarloaf Mills (PM)_Jul 27 2017 12:54:29:990PM
+417 - Sugarloaf Mills to Perimeter,A,417 - Sugarloaf Mills - 1640 - Copy,PM,0,,Perimeter to Sugarloaf Mills (PM)_Jul 27 2017 12:54:29:990PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0505,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0530,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0550,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0610,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0625,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0640,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0655 - Copy,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0655,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0715,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0740,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Downtown - 0810,AM,0,,Snellville/Hewatt Rd/Stone Mtn to Downtown (AM)_Apr 26 2017 10:58:03:010AM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mountain/Hewatt Rd/Snellville - 1505,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1535,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1555,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1600,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1615,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1630,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1645,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1700,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1725 - Copy,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1740,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+419 - Snellville:Hewatt Rd:Stone Mtn to Downtown,A,419 - Stone Mtn/Hewatt Rd/Snellville - 1810,PM,0,,Downtown to Stone Mtn/Hewatt Rd/Snellville (PM)_Oct  3 2018  5:13:30:760PM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0510,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0540,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0600,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0615,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0630,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0645,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0700,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0720,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Midtown - 0750,AM,0,,East Conyers/West Conyers/Panola Road to Midtown (AM)_Mar  2 2017  9:36:30:847AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1545,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1615,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1630,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1645,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1700,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1715,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1745,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+423 - E Conyers:W Conyers:Panola Road to Midtown,A,423 - Panola Rd/West Conyers/East Conyers - 1830,PM,0,,Midtown to Panola Road/West Conyers/East Conyers (PM)_Nov 14 2016  9:24:25:387AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers to Downtown - 0600,AM,0,,East Conyers to Downtown (AM)_Apr 26 2017 11:15:54:267AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers to Downtown - 0630,AM,0,,East Conyers to Downtown (AM)_Apr 26 2017 11:15:54:267AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers to Downtown - 0645,AM,0,,East Conyers to Downtown (AM)_Apr 26 2017 11:15:54:267AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers to Downtown - 0700,AM,0,,East Conyers to Downtown (AM)_Apr 26 2017 11:15:54:267AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers to Downtown - 0715,AM,0,,East Conyers to Downtown (AM)_Apr 26 2017 11:15:54:267AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers/W Conyers/Panola Rd - 0500,AM,0,,East Conyers/West Conyers/Panola Road to Downtown (AM)_Apr 26 2017 11:16:28:660AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers/W Conyers/Panola Rd - 0525,AM,0,,East Conyers/West Conyers/Panola Road to Downtown (AM)_Apr 26 2017 11:16:28:660AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - E Conyers/W Conyers/Panola Rd - 0730,AM,0,,East Conyers/West Conyers/Panola Road to Downtown (AM)_Apr 26 2017 11:16:28:660AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd to Downtown - 0620,AM,0,,Panola Road  to Downtown (AM)_Apr 26 2017 11:16:58:083AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd to Downtown - 0645,AM,0,,Panola Road  to Downtown (AM)_Apr 26 2017 11:16:58:083AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd to Downtown - 0710,AM,0,,Panola Road  to Downtown (AM)_Apr 26 2017 11:16:58:083AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1500,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1520,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1540,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1555,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1605,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1615,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1625,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1635,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1645 - Copy,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1645,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1655,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1705,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1720,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1740,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - Panola Rd/W Conyers/E Conyers - 1810,PM,0,,Downtown to Panola Road/West Conyers/East Conyers (PM)_Oct  3 2018  4:56:30:597PM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - W Conyers to Downtown - 0615,AM,0,,West Conyers to Downtown (AM)_Apr 26 2017 11:17:25:770AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - W Conyers to Downtown - 0640,AM,0,,West Conyers to Downtown (AM)_Apr 26 2017 11:17:25:770AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - W Conyers to Downtown - 0705,AM,0,,West Conyers to Downtown (AM)_Apr 26 2017 11:17:25:770AM
+426 - E Conyers:W Conyers:Panola Road to Downtown,A,426 - W Conyers/Panola Rd to Downtown - 0720,AM,0,,West Conyers/Panola Road to Downtown (AM)_Apr 26 2017 11:17:53:753AM
+428 - West Conyers:Panola Road to Perimeter,A,428 - Panola Rd/West Conyers - 1540 - Detour,PM,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Panola Rd/West Conyers - 1615 - Detour,PM,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Panola Rd/West Conyers - 1715 - Detour,PM,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Panola Rd/West Conyers - 1820 - Detour,PM,0,,Perimeter to Panola Road/West Conyers (PM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Perimeter - 0535 - Detour,AM,0,,West Conyers/Panola Road to Perimeter (AM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Perimeter - 0620 - Detour,AM,0,,West Conyers/Panola Road to Perimeter (AM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Perimeter - 0710 - Copy,AM,0,,West Conyers/Panola Road to Perimeter (AM)
+428 - West Conyers:Panola Road to Perimeter,A,428 - Perimeter - 0710 - Detour,AM,0,,West Conyers/Panola Road to Perimeter (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0520,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0545,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0610,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0630,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0650,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0710,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0730,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - Downtown - 0800,AM,0,,McDonough to Downtown (AM)
+430 - McDonough to Downtown,A,430 - McDonough - 1455,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+430 - McDonough to Downtown,A,430 - McDonough - 1530,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+430 - McDonough to Downtown,A,430 - McDonough - 1600,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+430 - McDonough to Downtown,A,430 - McDonough - 1620,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+430 - McDonough to Downtown,A,430 - McDonough - 1640,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+430 - McDonough to Downtown,A,430 - McDonough - 1700,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+430 - McDonough to Downtown,A,430 - McDonough - 1735,PM,0,,Downtown to McDonough (PM)_Oct  3 2018  5:07:17:213PM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1500,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1530,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1600,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1620,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1640,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1700,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - BrandsMart/Stockbridge - 1730,PM,0,,Midtown to BrandsMart/Stockbridge (PM)_Nov 14 2016  9:25:26:443AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0530,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0600,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0625,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0645,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0715,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0745,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+431 - BrandsMart:Stockbridge to Midtown,A,431 - Midtown - 0815,AM,0,,BrandsMart/Stockbridge to Midtown (AM)_Nov 14 2016  9:25:09:517AM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1500,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1530,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1600,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1620,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1630,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1640,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1650,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1710,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge - 1740,PM,0,,Downtown to BrandsMart/Stockbridge (PM)_Oct  3 2018  4:52:33:540PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - BrandsMart/Stockbridge/McDonough - 1810,PM,0,,Downtown to BrandsMart/Stockbridge/McDonough (PM)_Oct  3 2018  4:33:41:317PM
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0530,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0550,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0610,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0630,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0645,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0700,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0715,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0735,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0800,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+432 - BrandsMart:Stockbridge to Downtown,A,432 - Downtown - 0830,AM,0,,BrandsMart/Stockbridge to Downtown (AM)
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Downtown/Midtown - 0515,AM,0,,Hampton/Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:06:54:463AM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Downtown/Midtown - 0555,AM,0,,Hampton/Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:06:54:463AM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Downtown/Midtown - 0625,AM,0,,Hampton/Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:06:54:463AM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Downtown/Midtown - 0655,AM,0,,Hampton/Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:06:54:463AM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Downtown/Midtown - 0725,AM,0,,Hampton/Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:06:54:463AM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Downtown/Midtown - 0800,AM,0,,Hampton/Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:06:54:463AM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1505,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1535,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1605,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1635,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1705,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1735,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+440 - Hampton:Jonesboro to Downtown:Midtown,A,440 - Jonesboro/Hampton - 1815,PM,0,,Downtown/Midtown to Jonesboro/Hampton (PM)_Oct  3 2018  4:59:18:240PM
+441 - Jonesboro to Downtown:Midtown,A,441 - Downtown/Midtown - 0525,AM,0,,Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:03:37:960AM
+441 - Jonesboro to Downtown:Midtown,A,441 - Downtown/Midtown - 0605,AM,0,,Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:03:37:960AM
+441 - Jonesboro to Downtown:Midtown,A,441 - Downtown/Midtown - 0635,AM,0,,Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:03:37:960AM
+441 - Jonesboro to Downtown:Midtown,A,441 - Downtown/Midtown - 0705,AM,0,,Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:03:37:960AM
+441 - Jonesboro to Downtown:Midtown,A,441 - Downtown/Midtown - 0745,AM,0,,Jonesboro to Downtown/Midtown (AM)_Sep  6 2017 10:03:37:960AM
+441 - Jonesboro to Downtown:Midtown,A,441 - Jonesboro - 1445,PM,0,,Downtown/Midtown to Jonesboro (PM)_Oct  3 2018  5:05:13:037PM
+441 - Jonesboro to Downtown:Midtown,A,441 - Jonesboro - 1500,PM,0,,Downtown/Midtown to Jonesboro (PM)_Oct  3 2018  5:05:13:037PM
+441 - Jonesboro to Downtown:Midtown,A,441 - Jonesboro - 1620,PM,0,,Downtown/Midtown to Jonesboro (PM)_Oct  3 2018  5:05:13:037PM
+441 - Jonesboro to Downtown:Midtown,A,441 - Jonesboro - 1650,PM,0,,Downtown/Midtown to Jonesboro (PM)_Oct  3 2018  5:05:13:037PM
+441 - Jonesboro to Downtown:Midtown,A,441 - Jonesboro - 1900,PM,0,,Downtown/Midtown to Jonesboro (PM)_Oct  3 2018  5:05:13:037PM
+442 - Riverdale to Downtown,A,442 - Downtown - 0530,AM,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0620,AM,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0645,AM,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0705,AM,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Downtown - 0800,AM,0,,Riverdale to Downtown (AM)
+442 - Riverdale to Downtown,A,442 - Riverdale - 1530,PM,0,,Downtown to Riverdale (PM)_Oct  3 2018  5:11:09:623PM
+442 - Riverdale to Downtown,A,442 - Riverdale - 1600,PM,0,,Downtown to Riverdale (PM)_Oct  3 2018  5:11:09:623PM
+442 - Riverdale to Downtown,A,442 - Riverdale - 1630,PM,0,,Downtown to Riverdale (PM)_Oct  3 2018  5:11:09:623PM
+442 - Riverdale to Downtown,A,442 - Riverdale - 1700,PM,0,,Downtown to Riverdale (PM)_Oct  3 2018  5:11:09:623PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0530,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0600,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0615,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0630,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0645,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0700,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0730,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Downtown/Midtown - 0800,AM,0,,Newnan/Union City to Downtown/Midtown (AM)
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1500,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1530,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1600,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1620,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1640,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1700,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+453 - Newnan:Union City to Downtown:Midtown,A,453 - Union City/Newnan - 1730,PM,0,,Downtown/Midtown to Union City/Newnan (PM)_Oct  3 2018  5:09:21:070PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1500,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1530,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1545,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1557,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1609,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1621,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1633,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1645,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1705,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1730,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Douglas MMTC/West Douglas - 1800,PM,0,,Downtown/Midtown to Douglasville/West Douglas (PM)_Oct  3 2018  5:18:24:940PM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0515,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0537,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0557,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0612,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0624,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0636,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0648,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0700,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0715,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0735,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+463 - W Douglas:Douglasville to Downtown:Midtown,A,463 - Downtown/Midtown - 0800,AM,0,,West Douglas/Douglasville to Downtown/Midtown (AM)_Apr 26 2017 11:14:58:083AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0520,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0545,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0605,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0620,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0635,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0650,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0705,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0725,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Downtown/Midtown - 0750,AM,0,,Hiram/Powder Springs to Downtown/Midtown (AM)_Nov 15 2016 10:07:57:593AM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1500,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1530,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1550,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1600,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1615,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1630,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1645,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1700,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+476 - Hiram:Powder Springs to Downtown:Midtown,A,476 - Powder Springs/Hiram - 1720,PM,0,,Downtown/Midtown to Powder Springs/Hiram (PM)_Oct  3 2018  5:02:53:920PM
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0530,AM,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Oct  3 2018  4:31:04:373PM
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0600,AM,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Oct  3 2018  4:31:04:373PM
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0630,AM,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Oct  3 2018  4:31:04:373PM
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0700,AM,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Oct  3 2018  4:31:04:373PM
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Downtown - 0745,AM,0,,Acworth/Town Center (Big Shanty) to Downtown (AM)_Oct  3 2018  4:31:04:373PM
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1500,PM,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1600,PM,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1630,PM,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1700,PM,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+480 - Acworth:Town Center (Big Shanty) to Downtown,A,480 - Town Center/Acworth - 1745,PM,0,,Downtown to Town Center (Big Shanty)/Acworth (PM)
+482 - Town Center (Big Shanty) to Perimeter,A,482 - Perimeter - 0545 - Copy,AM,0,,Town Center (Big Shanty) to Perimeter (AM)_Feb 13 2017  2:22:15:510PM
+482 - Town Center (Big Shanty) to Perimeter,A,482 - Perimeter - 0605 - Copy,AM,0,,Town Center (Big Shanty) to Perimeter (AM)_Feb 13 2017  2:22:15:510PM
+482 - Town Center (Big Shanty) to Perimeter,A,482 - Perimeter - 0635 - Copy,AM,0,,Town Center (Big Shanty) to Perimeter (AM)_Feb 13 2017  2:22:15:510PM
+482 - Town Center (Big Shanty) to Perimeter,A,482 - Town Center - 1530 - Copy,PM,0,,Perimeter to Town Center (Big Shanty) (PM)
+482 - Town Center (Big Shanty) to Perimeter,A,482 - Town Center - 1600 - Copy,PM,0,,Perimeter to Town Center (Big Shanty) (PM)
+482 - Town Center (Big Shanty) to Perimeter,A,482 - Town Center - 1630 - Copy,PM,0,,Perimeter to Town Center (Big Shanty) (PM)
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0530,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0600,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0620,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0640,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0700,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0720,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Midtown - 0755,AM,0,,Woodstock/Town Center (Big Shanty) to Midtown (AM)_Nov 14 2016  9:42:13:893AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1515,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1545,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1605,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1625,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1645,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1705,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+483 - Woodstock:Town Center(Big Shanty) to Midtown,A,483 - Town Center/Woodstock - 1745,PM,0,,Midtown to Town Center (Big Shanty)/Woodstock (PM)_Nov 14 2016  9:42:26:290AM
+490 - Canton:Woodstock to Downtown,A,490 - Downtown - 0535,AM,0,,Canton/Woodstock to Downtown (AM)_Oct  3 2018  4:36:03:780PM
+490 - Canton:Woodstock to Downtown,A,490 - Downtown - 0605,AM,0,,Canton/Woodstock to Downtown (AM)_Oct  3 2018  4:36:03:780PM
+490 - Canton:Woodstock to Downtown,A,490 - Woodstock to Downtown - 0645,AM,0,,Woodstock to Downtown (AM)_Apr 24 2018 10:47:51:880AM
+490 - Canton:Woodstock to Downtown,A,490 - Woodstock to Downtown - 0710,AM,0,,Woodstock to Downtown (AM)_Apr 24 2018 10:47:51:880AM
+490 - Canton:Woodstock to Downtown,A,490 - Woodstock/Canton - 1610,PM,0,,Downtown to Woodstock/Canton (PM)
+490 - Canton:Woodstock to Downtown,A,490 - Woodstock/Canton - 1640,PM,0,,Downtown to Woodstock/Canton (PM)
+490 - Canton:Woodstock to Downtown,A,490 - Woodstock/Canton - 1710,PM,0,,Downtown to Woodstock/Canton (PM)
+490 - Canton:Woodstock to Downtown,A,490 - Woodstock/Canton - 1740,PM,0,,Downtown to Woodstock/Canton (PM)

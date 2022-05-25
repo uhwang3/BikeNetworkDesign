@@ -1,0 +1,762 @@
+{
+    "hubs": {
+        "118052": {
+            "lat": 33.725821,
+            "lon": -84.582613,
+            "total_bus_route_freq": 3,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 98,
+            "departing_shuttles": 106
+        },
+        "120068": {
+            "lat": 33.706005,
+            "lon": -84.506485,
+            "total_bus_route_freq": 4,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 795,
+            "departing_shuttles": 282
+        },
+        "129012": {
+            "lat": 33.704363,
+            "lon": -84.30834,
+            "total_bus_route_freq": 6,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 1180,
+            "departing_shuttles": 305
+        },
+        "134052": {
+            "lat": 33.705515000000005,
+            "lon": -84.135234,
+            "total_bus_route_freq": 6,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 841,
+            "departing_shuttles": 258
+        },
+        "169041": {
+            "lat": 33.666336,
+            "lon": -84.245115,
+            "total_bus_route_freq": 2,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 91,
+            "departing_shuttles": 70
+        },
+        "182014": {
+            "lat": 33.587319,
+            "lon": -84.548837,
+            "total_bus_route_freq": 7,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 365,
+            "departing_shuttles": 158
+        },
+        "197100": {
+            "lat": 33.549064,
+            "lon": -84.60505699999999,
+            "total_bus_route_freq": 6,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 22,
+            "departing_shuttles": 17
+        },
+        "210054": {
+            "lat": 33.911532,
+            "lon": -84.42433100000002,
+            "total_bus_route_freq": 2,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 55,
+            "departing_shuttles": 25
+        },
+        "211065": {
+            "lat": 33.585073,
+            "lon": -84.469175,
+            "total_bus_route_freq": 6,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 826,
+            "departing_shuttles": 213
+        },
+        "212171": {
+            "lat": 33.571945,
+            "lon": -84.354724,
+            "total_bus_route_freq": 6,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 399,
+            "departing_shuttles": 188
+        },
+        "212236": {
+            "lat": 33.506028,
+            "lon": -84.360042,
+            "total_bus_route_freq": 2,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 58,
+            "departing_shuttles": 22
+        },
+        "212415": {
+            "lat": 33.534351,
+            "lon": -84.418769,
+            "total_bus_route_freq": 3,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 216,
+            "departing_shuttles": 67
+        },
+        "212460": {
+            "lat": 33.448938,
+            "lon": -84.339496,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 0,
+            "departing_shuttles": 0
+        },
+        "212711": {
+            "lat": 33.644332,
+            "lon": -84.325288,
+            "total_bus_route_freq": 5,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 256,
+            "departing_shuttles": 82
+        },
+        "902327": {
+            "lat": 33.819005,
+            "lon": -84.19377800000002,
+            "total_bus_route_freq": 6,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 768,
+            "departing_shuttles": 422
+        },
+        "902562": {
+            "lat": 33.834237,
+            "lon": -84.271889,
+            "total_bus_route_freq": 4,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 209,
+            "departing_shuttles": 229
+        },
+        "902723": {
+            "lat": 34.040324,
+            "lon": -84.31926700000002,
+            "total_bus_route_freq": 4,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 567,
+            "departing_shuttles": 207
+        },
+        "903186": {
+            "lat": 34.064854,
+            "lon": -84.25352600000002,
+            "total_bus_route_freq": 4,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 1336,
+            "departing_shuttles": 394
+        },
+        "906369": {
+            "lat": 33.789669,
+            "lon": -84.387414,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 441,
+            "departing_shuttles": 322
+        },
+        "906388": {
+            "lat": 33.523399,
+            "lon": -84.66541600000002,
+            "total_bus_route_freq": 4,
+            "total_rail_route_freq": 0,
+            "arriving_shuttles": 49,
+            "departing_shuttles": 3
+        },
+        "906647": {
+            "lat": 33.640553000000004,
+            "lon": -84.446198,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 90,
+            "departing_shuttles": 97
+        },
+        "906827": {
+            "lat": 33.845388,
+            "lon": -84.358235,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 72,
+            "departing_shuttles": 230
+        },
+        "907766": {
+            "lat": 33.94495,
+            "lon": -84.357275,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 482,
+            "departing_shuttles": 160
+        },
+        "907775": {
+            "lat": 33.823501,
+            "lon": -84.369313,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 822,
+            "departing_shuttles": 640
+        },
+        "907842": {
+            "lat": 33.758082,
+            "lon": -84.38759499999998,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 17,
+            "departing_shuttles": 34
+        },
+        "907843": {
+            "lat": 33.748696,
+            "lon": -84.395741,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 124,
+            "departing_shuttles": 94
+        },
+        "907844": {
+            "lat": 33.650282000000004,
+            "lon": -84.448612,
+            "total_bus_route_freq": 7,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 716,
+            "departing_shuttles": 333
+        },
+        "907845": {
+            "lat": 33.931671,
+            "lon": -84.351069,
+            "total_bus_route_freq": 8,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 160,
+            "departing_shuttles": 134
+        },
+        "907906": {
+            "lat": 33.753246999999995,
+            "lon": -84.44556800000002,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 309,
+            "departing_shuttles": 78
+        },
+        "907907": {
+            "lat": 33.754517,
+            "lon": -84.469824,
+            "total_bus_route_freq": 3,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 802,
+            "departing_shuttles": 249
+        },
+        "907913": {
+            "lat": 33.771471999999996,
+            "lon": -84.387258,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 276,
+            "departing_shuttles": 229
+        },
+        "907960": {
+            "lat": 33.772159,
+            "lon": -84.428873,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 636,
+            "departing_shuttles": 192
+        },
+        "908047": {
+            "lat": 33.92113,
+            "lon": -84.344268,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 104,
+            "departing_shuttles": 183
+        },
+        "908186": {
+            "lat": 33.860329,
+            "lon": -84.33924499999998,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 336,
+            "departing_shuttles": 195
+        },
+        "908301": {
+            "lat": 33.7173,
+            "lon": -84.42503,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 862,
+            "departing_shuttles": 256
+        },
+        "908374": {
+            "lat": 33.781247,
+            "lon": -84.386342,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 162,
+            "departing_shuttles": 145
+        },
+        "908435": {
+            "lat": 33.756178999999996,
+            "lon": -84.397215,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 28,
+            "departing_shuttles": 17
+        },
+        "908436": {
+            "lat": 33.749951,
+            "lon": -84.375675,
+            "total_bus_route_freq": 4,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 406,
+            "departing_shuttles": 200
+        },
+        "908437": {
+            "lat": 33.757451,
+            "lon": -84.352762,
+            "total_bus_route_freq": 3,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 340,
+            "departing_shuttles": 231
+        },
+        "908438": {
+            "lat": 33.775554,
+            "lon": -84.281487,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 250,
+            "departing_shuttles": 268
+        },
+        "908475": {
+            "lat": 33.774699,
+            "lon": -84.295417,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 469,
+            "departing_shuttles": 638
+        },
+        "908476": {
+            "lat": 33.761803,
+            "lon": -84.340825,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 17,
+            "departing_shuttles": 92
+        },
+        "908515": {
+            "lat": 33.769856,
+            "lon": -84.22890600000002,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 1124,
+            "departing_shuttles": 272
+        },
+        "908566": {
+            "lat": 33.765240999999996,
+            "lon": -84.312937,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 219,
+            "departing_shuttles": 61
+        },
+        "908603": {
+            "lat": 33.887929,
+            "lon": -84.30555600000002,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 287,
+            "departing_shuttles": 190
+        },
+        "908618": {
+            "lat": 33.750161,
+            "lon": -84.385915,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 404,
+            "departing_shuttles": 58
+        },
+        "908628": {
+            "lat": 33.677424,
+            "lon": -84.44054200000002,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 606,
+            "departing_shuttles": 382
+        },
+        "908629": {
+            "lat": 33.70088,
+            "lon": -84.428768,
+            "total_bus_route_freq": 13,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 706,
+            "departing_shuttles": 70
+        },
+        "908634": {
+            "lat": 33.772647,
+            "lon": -84.25160699999998,
+            "total_bus_route_freq": 12,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 1004,
+            "departing_shuttles": 386
+        },
+        "908639": {
+            "lat": 33.847944,
+            "lon": -84.367716,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 0,
+            "departing_shuttles": 0
+        },
+        "908704": {
+            "lat": 33.736564,
+            "lon": -84.413653,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 491,
+            "departing_shuttles": 112
+        },
+        "908845": {
+            "lat": 33.902787,
+            "lon": -84.28061,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 372,
+            "departing_shuttles": 189
+        },
+        "908872": {
+            "lat": 33.910757000000004,
+            "lon": -84.35189,
+            "total_bus_route_freq": 2,
+            "total_rail_route_freq": 6,
+            "arriving_shuttles": 126,
+            "departing_shuttles": 72
+        },
+        "908911": {
+            "lat": 33.766110999999995,
+            "lon": -84.387504,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 126,
+            "departing_shuttles": 91
+        },
+        "908958": {
+            "lat": 33.756613,
+            "lon": -84.403902,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 76,
+            "departing_shuttles": 57
+        },
+        "908963": {
+            "lat": 33.756478,
+            "lon": -84.41723,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 12,
+            "arriving_shuttles": 359,
+            "departing_shuttles": 133
+        },
+        "908976": {
+            "lat": 33.753899,
+            "lon": -84.39156,
+            "total_bus_route_freq": 0,
+            "total_rail_route_freq": 24,
+            "arriving_shuttles": 100,
+            "departing_shuttles": 67
+        }
+    },
+    "routes": {
+        "BLUE": {
+            "mode": 2,
+            "frequency_per_hour": 6,
+            "stop_ids": [
+                "907907",
+                "907906",
+                "908963",
+                "908958",
+                "908435",
+                "908976",
+                "908618",
+                "908436",
+                "908437",
+                "908476",
+                "908566",
+                "908475",
+                "908438",
+                "908634",
+                "908515",
+                "908634",
+                "908438",
+                "908475",
+                "908566",
+                "908476",
+                "908437",
+                "908436",
+                "908618",
+                "908976",
+                "908435",
+                "908958",
+                "908963",
+                "907906"
+            ]
+        },
+        "GOLD": {
+            "mode": 2,
+            "frequency_per_hour": 6,
+            "stop_ids": [
+                "908845",
+                "908603",
+                "908186",
+                "906827",
+                "907775",
+                "906369",
+                "908374",
+                "907913",
+                "908911",
+                "907842",
+                "908976",
+                "907843",
+                "908704",
+                "908301",
+                "908629",
+                "908628",
+                "907844",
+                "906647",
+                "907844",
+                "908628",
+                "908629",
+                "908301",
+                "908704",
+                "907843",
+                "908976",
+                "907842",
+                "908911",
+                "907913",
+                "908374",
+                "906369",
+                "907775",
+                "906827",
+                "908186",
+                "908603"
+            ]
+        },
+        "GREEN": {
+            "mode": 2,
+            "frequency_per_hour": 6,
+            "stop_ids": [
+                "907960",
+                "908963",
+                "908958",
+                "908435",
+                "908976",
+                "908618",
+                "908436",
+                "908437",
+                "908476",
+                "908437",
+                "908436",
+                "908618",
+                "908976",
+                "908435",
+                "908958",
+                "908963"
+            ]
+        },
+        "RED": {
+            "mode": 2,
+            "frequency_per_hour": 6,
+            "stop_ids": [
+                "907766",
+                "907845",
+                "908047",
+                "908872",
+                "908639",
+                "907775",
+                "906369",
+                "908374",
+                "907913",
+                "908911",
+                "907842",
+                "908976",
+                "907843",
+                "908704",
+                "908301",
+                "908629",
+                "908628",
+                "907844",
+                "906647",
+                "907844",
+                "908628",
+                "908629",
+                "908301",
+                "908704",
+                "907843",
+                "908976",
+                "907842",
+                "908911",
+                "907913",
+                "908374",
+                "906369",
+                "907775",
+                "908639",
+                "908872",
+                "908047",
+                "907845"
+            ]
+        },
+        "BUS_0": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "210054",
+                "908872"
+            ]
+        },
+        "BUS_1": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "902562",
+                "908634"
+            ]
+        },
+        "BUS_2": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "902327",
+                "908634"
+            ]
+        },
+        "BUS_3": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "169041",
+                "212711",
+                "134052",
+                "908634"
+            ]
+        },
+        "BUS_4": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "134052",
+                "908634"
+            ]
+        },
+        "BUS_5": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "134052",
+                "211065",
+                "182014",
+                "197100",
+                "212171",
+                "129012",
+                "902327",
+                "902562",
+                "908634"
+            ]
+        },
+        "BUS_6": {
+            "mode": 1,
+            "frequency_per_hour": 3.0,
+            "stop_ids": [
+                "212415",
+                "908629"
+            ]
+        },
+        "BUS_7": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "212236",
+                "908629"
+            ]
+        },
+        "BUS_8": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "212171",
+                "908629"
+            ]
+        },
+        "BUS_9": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "120068",
+                "908629"
+            ]
+        },
+        "BUS_10": {
+            "mode": 1,
+            "frequency_per_hour": 3.0,
+            "stop_ids": [
+                "212711",
+                "908437"
+            ]
+        },
+        "BUS_11": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "129012",
+                "908436"
+            ]
+        },
+        "BUS_12": {
+            "mode": 1,
+            "frequency_per_hour": 3.0,
+            "stop_ids": [
+                "118052",
+                "907907"
+            ]
+        },
+        "BUS_13": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "903186",
+                "907845"
+            ]
+        },
+        "BUS_14": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "902723",
+                "907845"
+            ]
+        },
+        "BUS_15": {
+            "mode": 1,
+            "frequency_per_hour": 4.0,
+            "stop_ids": [
+                "211065",
+                "907844"
+            ]
+        },
+        "BUS_16": {
+            "mode": 1,
+            "frequency_per_hour": 3.0,
+            "stop_ids": [
+                "182014",
+                "907844"
+            ]
+        },
+        "BUS_17": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "197100",
+                "906388"
+            ]
+        },
+        "BUS_18": {
+            "mode": 1,
+            "frequency_per_hour": 2.0,
+            "stop_ids": [
+                "182014",
+                "197100",
+                "906388"
+            ]
+        }
+    }
+}
