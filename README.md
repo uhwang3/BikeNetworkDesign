@@ -8,4 +8,4 @@ Uijeong Hwang, Ilsu Kim, Subhrajit Guhathakurta, & Pascal Van Hentenryck. (Under
 
 ## Note
 * API keys are required: Google Maps, Bing Maps, and Census.
-* '5_network_design_and_evaluation.R' is written to run in an MPI-based cluster computing environment.
+* `5_network_design_and_evaluation.R` is written to run in an MPI-based cluster computing environment.
